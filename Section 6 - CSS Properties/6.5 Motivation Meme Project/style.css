@@ -1,0 +1,29 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    
+    color: gold;
+    text-transform: uppercase;
+    font-size: 3rem;
+}
+
+p {
+    color: white;
+    text-transform: capitalize;
+}
+
+img {
+    border: 5px solid white;
+    width: 100%;
+    
+}
+
+.main-box {
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+    font-family: Libre Baskerville;
+    text-align: center;
+}
